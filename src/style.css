@@ -1,1 +1,16 @@
-/* styles go here */
+html {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.form-field {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form-field:last-child {
+  margin-bottom: 0;
+}
+
+.data-group {
+  margin-bottom: 20px;
+}
